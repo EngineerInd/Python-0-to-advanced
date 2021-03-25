@@ -1,0 +1,10 @@
+a=input("Enter Your First Name: ")
+b=input("Enter Last Name: ")
+c=input("Enter Your Roll number: ")
+
+print(b + " " +  a + " " + c)
+'''
+print(type(a))
+print(type(b))
+print(type(c))
+'''
